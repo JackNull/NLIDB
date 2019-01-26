@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.dukenlidb.nlidb.model.UserSessionTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2017-10-31T20:40:00" hostname="JackChenss-MacBook-Pro.local" time="0.164">
+  <properties/>
+  <testcase name="serialize" classname="com.dukenlidb.nlidb.model.UserSessionTest" time="0.141"/>
+  <testcase name="deserialize" classname="com.dukenlidb.nlidb.model.UserSessionTest" time="0.023"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
